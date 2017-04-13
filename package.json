@@ -1,0 +1,22 @@
+{
+  "name": "crumble",
+  "version": "1.0.0",
+  "description": "A quirky, interactive feature tour using [grumble.js](https://github.com/jamescryer/grumble.js) for steps along the way.",
+  "main": "/js/jquery.crumble.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleoooell/crumble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleoooell/crumble/issues"
+  },
+  "homepage": "https://github.com/lleoooell/crumble#readme"
+}
